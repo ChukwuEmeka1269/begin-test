@@ -4,3 +4,4 @@ And also get better with Git and Github.
 
 Have you resolved the conflict?
 Yes i have resolved it
+Updating my readme file
